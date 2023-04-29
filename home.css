@@ -282,7 +282,7 @@ ul{
             margin-right:0%;
         }
     #search span img{
-         margin-left:75%
+         margin-left:70%
          }
     }
     @media screen and (max-width: 1300px){
@@ -297,7 +297,8 @@ ul{
             margin-left:90%;
         }
           #search span img{
-         margin-left:70%
+         margin-left:65%;
+         margin-top:1%
          }
         .second img{
             margin-left:50%;
@@ -325,7 +326,8 @@ ul{
             margin-top: 35%;
         }
           #search span img{
-         margin-left:50%
+         margin-left:55%;
+         margin-top:1%;
          }
         #heading{
             margin-top: 29%;
@@ -367,7 +369,8 @@ ul{
             margin-top: 50%;
         }
           #search span img{
-         margin-left:40%
+         margin-left:45%;
+          margin-top:1%;
          }
         #heading{
             margin-top: 39%;
@@ -406,7 +409,8 @@ ul{
                 
         }
           #search span img{
-         margin-left:35%
+         margin-left:35%;
+          margin-top:1%;
          }
         .dropdown input{
             margin-top: 70%;
@@ -469,7 +473,8 @@ ul{
                 
         }
           #search span img{
-         margin-left:30%
+         margin-left:25%
+         margin-top:1%;
          }
 
         .dropdown input{
