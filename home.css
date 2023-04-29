@@ -281,6 +281,9 @@ ul{
         .second img{
             margin-right:0%;
         }
+    #search span img{
+         margin-left:75%
+         }
     }
     @media screen and (max-width: 1300px){
         body{
@@ -293,6 +296,9 @@ ul{
         .contact button{
             margin-left:90%;
         }
+          #search span img{
+         margin-left:70%
+         }
         .second img{
             margin-left:50%;
         }
@@ -318,6 +324,9 @@ ul{
         .dropdown input{
             margin-top: 35%;
         }
+          #search span img{
+         margin-left:60%
+         }
         #heading{
             margin-top: 29%;
             margin-left: 29%;
@@ -357,6 +366,9 @@ ul{
         .dropdown input{
             margin-top: 50%;
         }
+          #search span img{
+         margin-left:55%
+         }
         #heading{
             margin-top: 39%;
             margin-left: 29%;
@@ -393,6 +405,9 @@ ul{
             width:160px;
                 
         }
+          #search span img{
+         margin-left:40%
+         }
         .dropdown input{
             margin-top: 70%;
         }
@@ -453,6 +468,9 @@ ul{
             font-size: 14px;
                 
         }
+          #search span img{
+         margin-left:35%
+         }
 
         .dropdown input{
             margin-top: 105%;
@@ -543,6 +561,9 @@ ul{
             font-size: 14px;
                 
         }
+          #search span img{
+         margin-left:30%
+         }
         .dropdown input{
             margin-top: 94%;
         }
